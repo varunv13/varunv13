@@ -1,6 +1,6 @@
 # Hi, I'm Varun Verma 👋
 
-I'm a third-year student with a passion for Software Development and a strong focus on DevOps.
+I'm a fourth-year student with a passion for Software Development and a strong focus on DevOps.
 ## About Me 🌟
 
 - 💡 Currently exploring the exciting world of DevOps.
