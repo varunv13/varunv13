@@ -26,13 +26,12 @@ I'm a passionate developer with a strong background in building scalable backend
 ---
 
 ### 📈 GitHub Stats:
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunverma13&show_icons=true&theme=radical)
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunv13&show_icons=true&theme=radical)
 
 ---
 
 ### 📬 Connect With Me:
-- **GitHub:** [@varunverma13](https://github.com/varunverma13)
-- **LinkedIn:** [Varun Verma](https://www.linkedin.com/in/varun-verma-13/)
-- **Twitter/X:** [@varun_dev13](https://twitter.com/varun_dev13)
+- **GitHub:** [@varunverma13](https://github.com/varunv13)
+- **LinkedIn:** [Varun Verma](https://www.linkedin.com/in/varunverma13/)
 
 Always up for discussing exciting projects and collaborations! Let's build something awesome together. 🚀
