@@ -1,28 +1,38 @@
-# Hi, I'm Varun Verma 👋
+### Hi there, I'm Varun Verma! 👋
 
-I'm a fourth-year student with a passion for Software Development and a strong focus on DevOps.
-## About Me 🌟
+🚀 **Software Developer | Backend Engineer | Open Source Contributor**
 
-- 💡 Currently exploring the exciting world of DevOps.
-- 🚀 Dedicated to continuous learning and experimentation with cloud technologies.
-- 💬 Feel free to reach out to me if you want to discuss DevOps, cloud computing, or any related topic.
+I'm a passionate developer with a strong background in building scalable backend systems, RESTful APIs, and full-stack applications. I specialize in **Node.js, Express.js, MongoDB, and React Native**, and I'm always excited to explore new technologies.
 
-## Programming Languages 🚀
+---
 
-I'm proficient in several programming languages, including:
+### 🔥 What I’m Working On:
+- 🛠 **Building a Google Drive-like application** (Frontend & Backend Development)
+- 🔄 **Rewriting a Spring Boot project in Node.js**
+- 📅 **Developing a synchronized calendar app for seamless meeting scheduling**
+- ☁ **Planning a platform for hosting backend applications**
+- 📱 **Creating an auto WhatsApp responder mobile app (learning React Native!)**
 
-- **Java:** I have a strong foundation in Java and am eager to apply my skills to exciting projects.
+---
 
-- **Javascript:** Javascript is one of my favorite development purpose. I'm looking forward to using it in creative ways.
+### ⚡ Skills & Technologies:
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **Frontend:** React.js, React Native, EJS
+- **Databases:** MongoDB, PostgreSQL
+- **Other Tools:** Docker, AWS, Firebase, Redis
+- **Authentication & Security:** OAuth, bcrypt, session management
+- **Software Development:** Modular architecture, scalable system design
 
-- **C:** I have experience with C and have implemented algorithms and low-level system programming tasks using this language.
+---
 
-## Connect With Me 📫
+### 📈 GitHub Stats:
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunverma13&show_icons=true&theme=radical)
 
-You can reach out to me through various channels:
+---
 
-- 📧 Email: varunverma1303@gmail.com
-- 💼 LinkedIn: [Varun Verma](www.linkedin.com/in/varunverma13)
+### 📬 Connect With Me:
+- **GitHub:** [@varunverma13](https://github.com/varunverma13)
+- **LinkedIn:** [Varun Verma](https://www.linkedin.com/in/varun-verma-13/)
+- **Twitter/X:** [@varun_dev13](https://twitter.com/varun_dev13)
 
-Let's connect and explore opportunities to work together on exciting DevOps and cloud projects! Even if I haven't listed specific projects, I'm eager to collaborate and learn. Feel free to explore my GitHub repositories for future endeavors.
-
+Always up for discussing exciting projects and collaborations! Let's build something awesome together. 🚀
